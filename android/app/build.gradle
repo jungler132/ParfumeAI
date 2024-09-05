@@ -93,6 +93,7 @@ android {
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
+            ext.enableFlipper = false
         }
         release {
             // Caution! In production, you need to generate your own keystore file.

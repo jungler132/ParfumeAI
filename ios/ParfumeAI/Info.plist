@@ -32,6 +32,12 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Gallery access</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Save to gallery access</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
